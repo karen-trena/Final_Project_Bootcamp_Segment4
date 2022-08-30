@@ -12,7 +12,7 @@ Documents for the project:
 * [CSV with output data2](https://github.com/karen-trena/Final_Project_Bootcamp_Segment4/blob/main/OUTPUT_WITH_4_PERSONAS_AND_CATEGORIES.csv)
 * [Final Presentation](https://docs.google.com/presentation/d/1iIjT7LEFMVQZM1-F32SUy6muuYAycnX1QhJN6UIFS_s/edit#slide=id.p)
 * [Dashboard](https://public.tableau.com/app/profile/karen6336/viz/ProyectBootcamp/Historia1)
-* [Dashboard video](https://drive.google.com/file/d/1Gv7LkEopP3WuLZcKfm_8Tmdd8IzNvmaT/view?usp=sharing)
+* [Dashboard and Story video](https://drive.google.com/file/d/1Gv7LkEopP3WuLZcKfm_8Tmdd8IzNvmaT/view?usp=sharing)
 
 ## Project outlined
 To check the drafted project around the following topics, please refer to the [draft presentation for Segment 2](https://docs.google.com/presentation/d/1vevdRSbZUXFwZ-tOMe8PvFz4bRxzGSoixrDqNfBRb_c/edit#slide=id.p). You will find information about things like: Selected topic, Reasons for the selected topic, Questions that want to be answered ,and the start of all the Analysis Phase.
