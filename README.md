@@ -3,6 +3,17 @@
 ## Communication protocols
 I will work on this project on my own because I wasn´t sure I was going to be able to finish the course. I had delays on my Challenge deliverables and had to work on those first. I didn´t want to delay anyone else with their own projects so I decided to work on my own.
 
+## Documents for this project
+Documents for the project:
+* [Dataset for analysis](https://github.com/karen-trena/Final_Project_Bootcamp_Segment4/blob/main/CCGENERAL.csv)
+* [Exploratory analysis and KMeans](https://github.com/karen-trena/Final_Project_Bootcamp_Segment4/blob/main/Intento6ProyectoBuenisimo%20%20(18%20variables%20y%204%20clusters)%20rangos%20iguales.ipynb)
+* [Random Forest](https://github.com/karen-trena/Final_Project_Bootcamp_Segment4/blob/main/PredictionRF1.ipynb)
+* [CSV with output data1](https://github.com/karen-trena/Final_Project_Bootcamp_Segment4/blob/main/OUTPUT_WITH_4_PERSONAS.csv)
+* [CSV with output data2](https://github.com/karen-trena/Final_Project_Bootcamp_Segment4/blob/main/OUTPUT_WITH_4_PERSONAS_AND_CATEGORIES.csv)
+* [Final Presentation](https://docs.google.com/presentation/d/1iIjT7LEFMVQZM1-F32SUy6muuYAycnX1QhJN6UIFS_s/edit#slide=id.p)
+* [Dashboard](https://public.tableau.com/app/profile/karen6336/viz/ProyectBootcamp/Historia1)
+* [Dashboard video]()
+
 ## Project outlined
 To check the drafted project around the following topics, please refer to the [draft presentation for Segment 2](https://docs.google.com/presentation/d/1vevdRSbZUXFwZ-tOMe8PvFz4bRxzGSoixrDqNfBRb_c/edit#slide=id.p). You will find information about things like: Selected topic, Reasons for the selected topic, Questions that want to be answered ,and the start of all the Analysis Phase.
 
